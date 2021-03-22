@@ -36,7 +36,7 @@ export function IconsConfig(overwrite = {}) {
     'arrow_right',
     'arrow_down',
     'arrow_up',
-    'bell',
+    'launch',
     'add',
     'subtract',
     'exclamation',
